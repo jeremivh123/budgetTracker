@@ -1,0 +1,5 @@
+{
+    "name": "Budget Tracker",
+    "start_url": "/",
+    "display": "standalone"
+}
